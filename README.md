@@ -1,3 +1,14 @@
+## Project Repositories:
+- dataReprnProject
+- FoDA-assessment
+- ProgForDA_Project
+- ProgDAProject2
+- MultiParadigmProg
+- machineLearn-Stat2022
+- CreatingWebpages
+- pands-project
+- compArchitecture
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://constructor.university/sites/default/files/styles/header_image/public/2022-11/header_computer_science.jpg?itok=DQbTv_pa">
  <source media="(prefers-color-scheme: light)" srcset="https://www.hw.ac.uk/programmes/img/Subjects/Computer-Science/AI-test-800x600_rdax_725x544s.jpg">
