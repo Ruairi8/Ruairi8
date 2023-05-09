@@ -8,24 +8,16 @@
 - CreatingWebpages
 - pands-project
 - compArchitecture
-
+<br>
+### Irish :ireland: <br>
+- Degree from University College Dublin and doing a postgrad at Atlantic Technological University (Data Analytics)<br>
+- Sports, travel and languages enthusiast<br>
+- Won medals for piano and underage gaelic football<br>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://constructor.university/sites/default/files/styles/header_image/public/2022-11/header_computer_science.jpg?itok=DQbTv_pa">
  <source media="(prefers-color-scheme: light)" srcset="https://www.hw.ac.uk/programmes/img/Subjects/Computer-Science/AI-test-800x600_rdax_725x544s.jpg">
  <img alt="computer science images" src="https://www.youstudy.com/gallery/blog/post/computer-science-and-information-technology.jpg">
 </picture>
-<br>
-<br>
-### Irish :ireland: <br>
-Interests:<br>
-- Data science
-- Programming
-- Coding with Python/JavaScript
-- Manipulating data
-- Reading
-- History 
-- Languages
-- Sports (gaelic football, soccer, snooker)
 
 <!--
 **Ruairi8/Ruairi8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
