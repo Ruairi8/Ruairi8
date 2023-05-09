@@ -8,11 +8,11 @@
 - CreatingWebpages
 - pands-project
 - compArchitecture
-<br>
+<br><br>
 ### Irish :ireland: <br>
 - Degree from University College Dublin and doing a postgrad at Atlantic Technological University (Data Analytics)<br>
 - Interests include technology, computer programming, sport, natural health<br>
-- Won medals for piano and underage gaelic football<br>
+<br>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://constructor.university/sites/default/files/styles/header_image/public/2022-11/header_computer_science.jpg?itok=DQbTv_pa">
  <source media="(prefers-color-scheme: light)" srcset="https://www.hw.ac.uk/programmes/img/Subjects/Computer-Science/AI-test-800x600_rdax_725x544s.jpg">
