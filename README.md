@@ -1,4 +1,4 @@
-## Project Repositories:
+## My Work Including Projects And Research :triumph: :coffee::
 - [Data Representation Project](https://www.github.com/Ruairi8/dataReprnProject)
 - [Fundamentals of Data Analytics Coursework](https://www.github.com/Ruairi8/FoDA-assessment)
 - [Programming For Data Analytics Project 1](https://www.github.com/Ruairi8/ProgForDA-Project)
@@ -11,7 +11,7 @@
 <br>
 ### Irish :ireland: <br>
 - Degree from University College Dublin and doing a postgrad at Atlantic Technological University (Data Analytics)<br>
-- Interests include technology, computer programming, sport, natural health<br>
+- Interests include technology, computer programming, sport, natural health <br>
 <br>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://constructor.university/sites/default/files/styles/header_image/public/2022-11/header_computer_science.jpg?itok=DQbTv_pa">
