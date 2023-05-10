@@ -1,14 +1,14 @@
 ## Project Repositories:
-- dataReprnProject
-- FoDA-assessment
-- ProgForDA_Project
-- ProgDAProject2
-- MultiParadigmProg
-- machineLearn-Stat2022
-- CreatingWebpages
-- pands-project
-- compArchitecture
-<br><br>
+- [Data Representation Project](https://www.github.com/Ruairi8/dataReprnProject)
+- [Fundamentals of Data Analytics Coursework](https://www.github.com/Ruairi8/FoDA-assessment)
+- [Programming For Data Analytics Project 1](https://www.github.com/Ruairi8/ProgForDA-Project)
+- [Programming For Data Analytics Project 2](https://www.github.com/Ruairi8/ProgDAProject2)
+- [Multiparadigm Programming Project](https://www.github.com/Ruairi8/MultiParadigmProg)
+- [Machine Learning & Statistics Coursework](https://www.github.com/Ruairi8/machineLearn-Stat2022)
+- [Web Application Development Project](https://www.github.com/Ruairi8/CreatingWebpages)
+- [Progamming & Scripting Project](https://www.github.com/Ruairi8/pands-project)
+- [Computer Architecture Assessment](https://www.github.com/Ruairi8/compArchitecture)
+<br>
 ### Irish :ireland: <br>
 - Degree from University College Dublin and doing a postgrad at Atlantic Technological University (Data Analytics)<br>
 - Interests include technology, computer programming, sport, natural health<br>
