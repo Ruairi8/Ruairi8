@@ -1,4 +1,5 @@
 ## My Work Including Projects And Research :triumph: :coffee::
+- [Computational Thinking Project](https://github.com/Ruairi8/compThinking)
 - [Data Representation Project](https://www.github.com/Ruairi8/dataReprnProject)
 - [Fundamentals of Data Analytics Coursework](https://www.github.com/Ruairi8/FoDA-assessment)
 - [Programming For Data Analytics Project 1](https://www.github.com/Ruairi8/ProgForDA-Project)
@@ -9,7 +10,8 @@
 - [Progamming & Scripting Project](https://www.github.com/Ruairi8/pands-project)
 - [Computer Architecture Assessment](https://www.github.com/Ruairi8/compArchitecture)
 <br>
-### Irish :ireland: <br>
+
+### Irish :ireland: 
 - Degree from University College Dublin and doing a postgrad at Atlantic Technological University (Data Analytics)<br>
 - Interests include technology, computer programming, sport, natural health <br>
 <br>
