@@ -1,5 +1,6 @@
 ## My Work Including Projects And Research :triumph: :coffee::
 - [Computational Thinking Project](https://github.com/Ruairi8/compThinking)
+- [Applied Databases Project](https://github.com/Ruairi8/python-app-database)
 - [Data Representation Project](https://www.github.com/Ruairi8/dataReprnProject)
 - [Fundamentals of Data Analytics Coursework](https://www.github.com/Ruairi8/FoDA-assessment)
 - [Programming For Data Analytics Project 1](https://www.github.com/Ruairi8/ProgForDA-Project)
