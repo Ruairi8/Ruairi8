@@ -8,7 +8,6 @@
 - [Multiparadigm Programming Project](https://www.github.com/Ruairi8/MultiParadigmProg)
 - [Machine Learning & Statistics Coursework](https://www.github.com/Ruairi8/machineLearn-Stat2022)
 - [Progamming & Scripting Project](https://www.github.com/Ruairi8/pands-project)
-- [Computer Architecture Assessment](https://www.github.com/Ruairi8/compArchitecture)
 <br>
 
 ### Irish :ireland: 
