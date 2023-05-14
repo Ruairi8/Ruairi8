@@ -7,7 +7,7 @@
 - [Programming For Data Analytics Project 2](https://www.github.com/Ruairi8/ProgDAProject2)
 - [Multiparadigm Programming Project](https://www.github.com/Ruairi8/MultiParadigmProg)
 - [Machine Learning & Statistics Coursework](https://www.github.com/Ruairi8/machineLearn-Stat2022)
-- [Progamming & Scripting Project](https://www.github.com/Ruairi8/pands-project)
+- [Programming & Scripting Project](https://www.github.com/Ruairi8/pands-project)
 <br>
 
 ### Irish :ireland: 
