@@ -10,9 +10,14 @@
 - [Programming & Scripting Project](https://www.github.com/Ruairi8/pands-project)
 <br>
 
-### Irish :ireland: 
+### About Me Section: 
 - Degree from University College Dublin and doing a postgrad at Atlantic Technological University (Data Analytics)<br>
-- Interests include technology, computer programming, sport, natural health <br>
+- Completed a Science (Honours) degree University College Dublin (UCD), specializing in mathematical physics
+- Completed a certificate in "Emerging Technologies With For Industry" at Letterkenny Institute of Technology (LYIT)
+- Interests: computers, coding in Python or JavaScript, data science, working with datasets, extracting meaningful info from data, 
+- dynamical systems used in  weather forecasting, 
+- Hobbies/Sports: gaelic football, snooker, golf, walking, current local and world affairs
+<br>
 <br>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://constructor.university/sites/default/files/styles/header_image/public/2022-11/header_computer_science.jpg?itok=DQbTv_pa">
