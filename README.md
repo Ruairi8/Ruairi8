@@ -11,10 +11,16 @@
 <br>
 
 ### About Me: 
-<p>Living in Co.Donegal, Ireland. I've a science degree from University College Dublin in which I specialized in mathematical physics and am currently doing a postgrad at Atlantic Technological University (Computing in Data Analytics).<br>
- I completed a certificate in "Emerging Technologies For Industry" at Letterkenny Institute of Technology (LYIT) in 2021.<br><br>
-***My interests:*** physics, technological advances, computer programming, data science, working with datasets, natural language processing (NLP) and sentiment analysis for social media posts/blogs, computer hardware/software, mathematics, mathematical modelling, artificial intelligence, weather, climate, learning languages (German, French, Irish, Spanish, Catalan), sports (gaelic football, soccer, snooker, golf, horse racing)</p>
-***My hobbies:*** travelling, music, walking, running, socializing, reading
+Student of Computing In Data Analytics at Atlantic Technological University (ATU) Galway; living in Co.Donegal, Ireland.<br>
+Specialized in mathematical physics for my Bachelor of Science degree at University College Dublin (UCD).<br>
+In 2021, completed a postgraduate Certificate in "Emerging Technologies For Industry" at Letterkenny Institute of Technology (LYIT).
+<br>Spent time working in the gambling industry with a bookmakers.<br>
+I am seeking to use my experience, motivation and knowledge to develop a career in the tech industry.
+<br>
+
+___Interests:___ technology, computer programming, data visualization tools (tableau, PowerBI), machine learning, dataset management & info extraction, data mining (extracting patterns from data), natural language processing (NLP) and sentiment analysis for social media posts/blogs, computer hardware/software, mathematics, mathematical modelling, business intelligence, big data tech (MapReduce), artificial intelligence, weather, vegetarianism, learning languages (German, French, Irish, Spanish, Catalan), sports (gaelic football, soccer, snooker, golf, horse racing).
+ <br><br>
+___My Hobbies:___ reading books, reading & writing blog posts, reading news articles, travelling & meeting new people, music, walking & jogging, swimming, cooking and socializing over a few pints on occasion.
 <br>
 <br>
 <picture>
