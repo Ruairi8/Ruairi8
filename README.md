@@ -11,9 +11,10 @@
 <br>
 
 ### About Me: 
-Living in Co.Donegal, Ireland. I've a science degree from University College Dublin in which I specialized in mathematical physics and am currently doing a postgrad at Atlantic Technological University (Computing in Data Analytics). I completed a certificate in "Emerging Technologies For Industry" at Letterkenny Institute of Technology (LYIT) in 2021.<br><br>
-***My interests:*** physics, mathematics, computers, coding, data science, working with datasets, natural language processing (NLP) and sentiment analysis for social media posts/blogs, mathematical modelling, weather, climate, languages (German, French, Irish), sports (gaelic football, soccer, snooker, golf, horse racing)<br><br>
-***My hobbies:*** travelling, music, exercise, socializing
+<p>Living in Co.Donegal, Ireland. I've a science degree from University College Dublin in which I specialized in mathematical physics and am currently doing a postgrad at Atlantic Technological University (Computing in Data Analytics).<br>
+ I completed a certificate in "Emerging Technologies For Industry" at Letterkenny Institute of Technology (LYIT) in 2021.<br><br>
+***My interests:*** physics, technological advances, computer programming, data science, working with datasets, natural language processing (NLP) and sentiment analysis for social media posts/blogs, computer hardware/software, mathematics, mathematical modelling, artificial intelligence, weather, climate, learning languages (German, French, Irish, Spanish, Catalan), sports (gaelic football, soccer, snooker, golf, horse racing)</p>
+***My hobbies:*** travelling, music, walking, running, socializing, reading
 <br>
 <br>
 <picture>
