@@ -14,7 +14,7 @@
 Student of Computing In Data Analytics at Atlantic Technological University (ATU) Galway; living in Co.Donegal, Ireland.<br>
 Specialized in mathematical physics for my Bachelor of Science degree at University College Dublin (UCD).<br>
 In 2021, completed a postgraduate Certificate in "Emerging Technologies For Industry" at Letterkenny Institute of Technology (LYIT).
-<br>Spent time working in the gambling industry with a bookmakers.<br>
+<br>Perviously worked as a shop manager with a bookmakers.<br>
 I am seeking to use my experience, motivation and knowledge to develop a career in the tech industry.
 <br>
 
