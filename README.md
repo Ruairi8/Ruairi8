@@ -1,4 +1,4 @@
-## My Work Including Projects And Research :triumph: :coffee::
+## My Work Including Projects And Research :relieved: :coffee::
 - [Computational Thinking Project](https://github.com/Ruairi8/compThinking)
 - [Applied Databases Project](https://github.com/Ruairi8/python_app_database)
 - [Data Representation Project](https://www.github.com/Ruairi8/dataReprnProject)
